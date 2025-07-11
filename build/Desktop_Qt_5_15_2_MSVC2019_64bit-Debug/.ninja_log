@@ -1,0 +1,23 @@
+# ninja log v6
+44	1750	7739012341229320	QtChess_autogen/timestamp	3878592ca7d51ec1
+44	1750	7739012341229320	QtChess_autogen/mocs_compilation.cpp	3878592ca7d51ec1
+44	1750	7739012341229320	D:/workspace/qtchess/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/QtChess_autogen/timestamp	3878592ca7d51ec1
+44	1750	7739012341229320	D:/workspace/qtchess/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/QtChess_autogen/mocs_compilation.cpp	3878592ca7d51ec1
+1755	2062	7739012346067462	QtChess_autogen/EWIEGA46WW/qrc_qtchess.cpp	519aa59e77f6da22
+1755	2062	7739012346067462	D:/workspace/qtchess/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/QtChess_autogen/EWIEGA46WW/qrc_qtchess.cpp	519aa59e77f6da22
+2866	3484	7739012354243787	CMakeFiles/QtChess.dir/zobrist.cpp.obj	7d95cb6d633352bc
+2776	3488	7739012353326693	CMakeFiles/QtChess.dir/rc4.cpp.obj	94ae0e5f38734972
+3298	4168	7739012358511778	CMakeFiles/QtChess.dir/QtChess_autogen/EWIEGA46WW/qrc_qtchess.cpp.obj	f056e77e4f132b20
+2603	4852	7739012351618336	CMakeFiles/QtChess.dir/gamesettings.cpp.obj	7e2a511a898035e9
+2951	5024	7739012355055621	CMakeFiles/QtChess.dir/movegenerator.cpp.obj	9b996a6ee8671671
+3123	5178	7739012356785567	CMakeFiles/QtChess.dir/servernetwork.cpp.obj	f861c7df9e4b5111
+3208	5186	7739012357594041	CMakeFiles/QtChess.dir/clientnetwork.cpp.obj	c7c6004dd6c9a4e7
+2420	5202	7739012349763498	CMakeFiles/QtChess.dir/chesshandler.cpp.obj	2c60c7b97e1308e9
+2331	5285	7739012348849378	CMakeFiles/QtChess.dir/chessboard.cpp.obj	d07c21475aeaa58f
+2687	5306	7739012352410223	CMakeFiles/QtChess.dir/settingsdialog.cpp.obj	2f7e2beb1bc2a873
+2513	5412	7739012350691565	CMakeFiles/QtChess.dir/steplist.cpp.obj	32c203af1cf1b481
+2152	5712	7739012347111545	CMakeFiles/QtChess.dir/main.cpp.obj	e2dfdfba53dfe71a
+2064	5720	7739012346230381	CMakeFiles/QtChess.dir/QtChess_autogen/mocs_compilation.cpp.obj	4e7e970d4d767142
+3039	5756	7739012355968791	CMakeFiles/QtChess.dir/steptimerthread.cpp.obj	b253468d495e4042
+2246	6133	7739012348029877	CMakeFiles/QtChess.dir/mainwindow.cpp.obj	f5d4c34b8edb7afc
+6133	8020	7739012386921559	bin/QtChess.exe	1b8df13093cc79d3

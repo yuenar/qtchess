@@ -39,3 +39,27 @@
 
 # debug information files
 *.dwo
+
+build/*
+build-*
+src/build/*
+.cache/*
+.cmake/*
+compile_commands.json
+.vscode/*
+moc*
+*.log
+ui_*
+qrc_*
+*.log
+CMakeLists.txt.user
+bin/*
+*.user
+*.user.*
+*/CMakeLists.txt.user
+*/CMakeCache.txt
+*/CMakeFiles/*
+*/cmake_install.cmake
+.VSCodeCounter/*
+CMakePresets.json
+.clang*
