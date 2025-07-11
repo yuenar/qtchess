@@ -1,5 +1,0 @@
-D:/workspace/qtchess/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/QtChess.dir
-D:/workspace/qtchess/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/workspace/qtchess/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/workspace/qtchess/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/QtChess_autogen_timestamp_deps.dir
-D:/workspace/qtchess/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/QtChess_autogen.dir
